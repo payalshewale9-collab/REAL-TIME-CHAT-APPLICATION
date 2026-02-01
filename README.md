@@ -9,6 +9,7 @@
 *DURATION*:4 WEEKS
 
 *MENTOR*:NEELA SANTOSH
+<img width="1036" height="792" alt="Image" src="https://github.com/user-attachments/assets/c6c6e8af-4013-46ef-99de-8558888fb7ab" />
 The Real-Time Chat Application is a web-based communication system designed to enable instant messaging between multiple users in real time. The main objective of this application is to provide fast, reliable, and seamless communication through a simple and user-friendly interface. This project demonstrates the practical implementation of real-time data exchange using modern web technologies.
 
 The application is developed using HTML, CSS, JavaScript, Node.js, and Socket.io. HTML is used to structure the user interface, while CSS is applied to create an attractive and responsive layout. JavaScript is used on both the client side and server side to handle user interactions, message handling, and real-time events. Node.js acts as the backend runtime environment, and Socket.io enables bi-directional communication between the client and server.
